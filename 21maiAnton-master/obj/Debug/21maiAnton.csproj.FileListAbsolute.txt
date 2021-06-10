@@ -1,0 +1,14 @@
+C:\Users\opilane\Desktop\21maiAnton-master\bin\Debug\21maiAnton.exe.config
+C:\Users\opilane\Desktop\21maiAnton-master\bin\Debug\21maiAnton.exe
+C:\Users\opilane\Desktop\21maiAnton-master\bin\Debug\21maiAnton.pdb
+C:\Users\opilane\Desktop\21maiAnton-master\obj\Debug\21maiAnton.csprojAssemblyReference.cache
+C:\Users\opilane\Desktop\21maiAnton-master\obj\Debug\21maiAnton.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\21maiAnton-master\obj\Debug\21maiAnton.exe
+C:\Users\opilane\Desktop\21maiAnton-master\obj\Debug\21maiAnton.pdb
+C:\Users\opilane\source\repos\21maiAnton-master\bin\Debug\21maiAnton.exe.config
+C:\Users\opilane\source\repos\21maiAnton-master\bin\Debug\21maiAnton.exe
+C:\Users\opilane\source\repos\21maiAnton-master\bin\Debug\21maiAnton.pdb
+C:\Users\opilane\source\repos\21maiAnton-master\obj\Debug\21maiAnton.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\21maiAnton-master\obj\Debug\21maiAnton.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\21maiAnton-master\obj\Debug\21maiAnton.exe
+C:\Users\opilane\source\repos\21maiAnton-master\obj\Debug\21maiAnton.pdb
